@@ -1,4 +1,5 @@
 ### Hello, I'm Matheus Cavalcante! 👋
+### It's a pleasure having you here!😊
 
 <div align="center">
   <a href="https://github.com/rodriguesmatpc">
@@ -14,21 +15,14 @@
   
  ##
 <div> 
-  <a href = "mailto:cavalcantematrp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cavalcantematrp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-rodrigues-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
 
-  
-   Here are some ideas to get you started:
+ I`m a _**Social Scient**_ student at **UERJ** and also _**Information System's**_ student at **Faculdade Digital Descomplica**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I`m currently learning Java!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- ![Snake animation](https://github.com/rodriguesmatpc/blob/output/github-contribution-grid-snake.svg)
+📙Currently I'm focusing learning *Java* .
+To see more information about my researcher and professional life, do not hesitate to click on my *Linkedin* button!
+
+![Snake animation](https://github.com/rodriguesmatpc/blob/output/github-contribution-grid-snake.svg)
