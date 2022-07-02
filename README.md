@@ -1,6 +1,5 @@
 ### Hello, I'm Matheus Cavalcante! 👋
-### It's a pleasure having you here!😊
-
+### It's a pleasure having you here!😊 
 <div align="center">
   <a href="https://github.com/rodriguesmatpc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguesmatpc&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -26,3 +25,5 @@
 To see more information about my researcher and professional life, do not hesitate to click on my *Linkedin* button!
 
 ![Snake animation](https://github.com/rodriguesmatpc/rodriguesmatpc/blob/output/github-contribution-grid-snake.svg)
+<img align="right" height="350" width="360" src="https://user-images.githubusercontent.com/96153654/177018283-8bb4bbed-e843-4056-bba7-08181b8afcf3.png" />
+<img align="left" height="280" width="290" src="https://tenor.com/view/arc-angeling-ragnarok-ragnarok-online-mmorpg-gif-17507233.gif" />
