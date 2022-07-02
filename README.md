@@ -25,4 +25,4 @@
 📙Currently I'm focusing learning *Java* .
 To see more information about my researcher and professional life, do not hesitate to click on my *Linkedin* button!
 
-![Snake animation](https://github.com/rodriguesmatpc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rodriguesmatpc/rodriguesmatpc/blob/output/github-contribution-grid-snake.svg)
